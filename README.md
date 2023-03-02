@@ -22,7 +22,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-code-ltg7.onrender.com)
+- Live Site URL: [Click here](https://qr-code-ltg7.onrender.com)
 
 ## My process
 
